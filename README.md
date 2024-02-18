@@ -4,11 +4,11 @@ It's an updated React Component, a Wrapper for [Gantt chart library](https://git
 
 ## Install
 
-> npm install @toyokoh/frappe-gantt-react
+> npm install @JacobBarr1986/frappe-gantt-react
 
 or
 
-> yarn add @toyokoh/frappe-gantt-react
+> yarn add @JacobBarr1986/frappe-gantt-react
 
 ## Usage
 
